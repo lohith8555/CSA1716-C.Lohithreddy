@@ -1,4 +1,4 @@
-print("Abdul sami-192110594")
+print("vaccum cleaner")
 class VacuumCleaner:
     def __init__(self):
         self.position = 0
